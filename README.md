@@ -1,3 +1,3 @@
 # TP Git Formation - version U1
 Auteur: U2
-Fonctionnalités disponibles : logout
+Fonctionnalités disponibles : login, logout
